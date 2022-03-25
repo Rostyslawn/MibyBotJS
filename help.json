@@ -1,0 +1,5 @@
+{
+    "help": {
+        "commands": "bb/registr, bb/myprofile, bb/getbonus, bb/roll [number], bb/closeprofile, bb/openprofile, bb/profile @user, bb/bug [text], bb/orel, bb/reshka, bb/language [en, ru, ua]"
+    }
+}

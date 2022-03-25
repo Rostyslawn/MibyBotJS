@@ -1,0 +1,17 @@
+{
+  "name": "best-bot1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "rostyslawn",
+  "license": "ISC"
+}
